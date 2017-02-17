@@ -1,0 +1,25 @@
+{
+  "name": "npm-site-tutorial",
+  "version": "1.0.0",
+  "description": "Tutorial from http://tutorialzine.com/2015/03/npm-driven-website/ on making a website using npm and JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jindigiordano/npm-site-tutorial.git"
+  },
+  "author": "Jin Di Giordano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jindigiordano/npm-site-tutorial/issues"
+  },
+  "homepage": "https://github.com/jindigiordano/npm-site-tutorial#readme",
+  "dependencies": {
+    "bootswatch": "^3.3.7",
+    "gmaps": "^0.4.24",
+    "jquery": "^3.1.1",
+    "moment": "^2.17.1"
+  }
+}
